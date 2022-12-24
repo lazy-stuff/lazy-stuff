@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi! I'm Nastya 👋 Python-developer.
+
+#### Languages & Tools
+##### Python - 
+Django - 
+Django REST Framework - 
+SQL - 
+Gunicorn - 
+Nginx - 
+SQLite - 
+Docker - 
+Postman - 
+Linux - 
+Yandex.Cloud
+
 
 <!--
 **lazy-stuff/lazy-stuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
