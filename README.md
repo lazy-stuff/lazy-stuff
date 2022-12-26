@@ -1,4 +1,4 @@
-### Hi! I'm Nastya 👋 newbie python-developer.
+### Hey! I'm Nastya 👋 python-developer.
 
 #### Languages & Tools
 Python - 
